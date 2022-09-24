@@ -1,7 +1,6 @@
-<h2 align="left">Hi 👋, I'm Shahzaib Naeem</h1>
-<h4 align="left">I am a Software Developer. I have a passion for learning and sharing my knowledge with other. I currently live in Gujrat,Pakistan and Learning Web Technologies.</h3>
+<h3 align="left">Hi 👋, I'm Shahzaib Naeem</h1>
+<p align="left">I am a Software Developer. I have a passion for learning and sharing my knowledge with other. I currently live in Gujrat,Pakistan and Learning Web Technologies.</p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
