@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋, I'm Shahzaib Naeem</h1>
-<p align="left">I am a Software Developer. I have a passion for learning and sharing my knowledge with other. I currently live in Creil, PFrance and Learning Web Technologies.</p>
+<p align="left">I am a Software Developer. I have a passion for learning and sharing my knowledge with other. I currently live in Creil, France and Learning Web Technologies.</p>
 
 <p align="left">
 </p>
